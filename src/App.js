@@ -3,6 +3,7 @@ import "./App.css";
 // import ApexChart from "./Line-Chart";
 import ReactApexChart from "react-apexcharts";
 import data from "./data.json";
+import Chart from "react-apexcharts"
 
 class ApexChart extends React.Component {
   constructor(props) {
